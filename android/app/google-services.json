@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686161683586",
+    "project_id": "fluttest-89ec1",
+    "storage_bucket": "fluttest-89ec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686161683586:android:2ae618f8cf0cf1d35ac09b",
+        "android_client_info": {
+          "package_name": "com.example.chaljavmropls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686161683586-ps8vph59l4umpdakqh6j70mnag4ooo0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDIOlmydfS5ZpwEf5ETyAmHJEfkY2B6Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686161683586-ps8vph59l4umpdakqh6j70mnag4ooo0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
